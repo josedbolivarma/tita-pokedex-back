@@ -1,0 +1,28 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Poke Shark",
+      "type": [
+        "water",
+        "normal"
+      ],
+      "generation": 2,
+      "weight": "100kg",
+      "height": "4m",
+      "img": "https://res.cloudinary.com/duzncuogi/image/upload/v1727205877/tita-pokedex/community/Poke_Shark_vkqgts.png"
+    },
+    {
+      "id": 2,
+      "name": "Poke Dino",
+      "type": [
+        "fire",
+        "normal"
+      ],
+      "generation": 2,
+      "weight": "200kg",
+      "height": "12m",
+      "img": "https://res.cloudinary.com/duzncuogi/image/upload/v1727205877/tita-pokedex/community/Poke_Dino_xysgxp.png"
+    }
+  ]
+}
